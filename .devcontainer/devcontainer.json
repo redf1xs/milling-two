@@ -4,6 +4,6 @@
     "features": {
         "ghcr.io/ebaskoro/devcontainer-features/scala:1": {},
         //"ghcr.io/devcontainers/features/java:1": {},
-        "ghcr.io/mikaello/devcontainer-features/kotlinc:latest": {}
+        //"ghcr.io/mikaello/devcontainer-features/kotlinc:latest": {}
     }
 }
